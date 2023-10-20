@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tck33PgSaspw7IyT6kp5byF0XJqFb7EYTkoHmzSYCKwsLrNiJUCgz+E/UBEk4Zp1KF6LNF2MdOZrv8WzB9dOdQ==",
+  "success": true,
+  "projectFilePath": "/Users/mykolaliesnikov/Projects/Frotcom/data-models-vehicles/data-models-vehicles/data-models-vehicles.csproj",
+  "expectedPackageFiles": [
+    "/Users/mykolaliesnikov/.nuget/packages/data-models-base/2.0.0/data-models-base.2.0.0.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/data-models-drivers/8.0.4/data-models-drivers.8.0.4.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/data-models-locations/2.0.0/data-models-locations.2.0.0.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/data-models-packets/4.1.1/data-models-packets.4.1.1.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/mykolaliesnikov/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

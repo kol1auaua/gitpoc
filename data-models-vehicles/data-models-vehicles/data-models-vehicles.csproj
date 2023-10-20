@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Frotcom.Data.Models.Vehicles</RootNamespace>
+    <Authors>Ricardo Amaral</Authors>
+    <Company>Frotcom International</Company>
+    <Product>Frotcom Data Models Vehicles</Product>
+    <Description>Data Models Vehicles implements a classes to be used in the workers.</Description>
+    <PackageIconUrl>https://cdn-images-1.medium.com/max/1200/1*Voh7k0_lP6wMJEApsqfKnA.png</PackageIconUrl>
+    <Copyright>Copyright © Frotcom International 2020</Copyright>
+    <PackageTags>frotcom data models vehicles</PackageTags>
+    <Version>4.6.1</Version>
+    <AssemblyVersion>4.6.1</AssemblyVersion>
+    <FileVersion>4.6.1</FileVersion>
+    <PackageVersion>4.6.1</PackageVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="data-models-base" Version="2.0.0" />
+    <PackageReference Include="data-models-drivers" Version="8.0.4" />
+    <PackageReference Include="data-models-locations" Version="2.0.0" />
+    <PackageReference Include="data-models-packets" Version="4.1.1" />
+  </ItemGroup>
+
+</Project>
